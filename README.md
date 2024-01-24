@@ -1,7 +1,17 @@
 # pakistani_players
-
-A new Flutter project.
-
+Assignment No. 2 
+Homework:  1 Create a github account 2. Create a flutter app with ListView
+3 Show all the players of Pakistan cricket team 
+4 upload the project to your github account
+5 Share the repo link 
+# Trainer: Muhammad Abid Saib
+Submitted By 
+## Name: 	Faiz Muhammad Khan (M.Sc Computer Science)
+Email: 	faizmuhammadkhan2@gmail.com
+Contact: 	03469081669 
+Link to github repo: https://github.com/risepk/pakistaniplayers
+### Demo 
+https://github.com/risepk/pakistaniplayers/assets/24992385/bf0b6440-d521-4c97-9e79-22926158f745
 ## Getting Started
 
 This project is a starting point for a Flutter application.
